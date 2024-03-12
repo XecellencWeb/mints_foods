@@ -91,7 +91,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="container mx-auto px-8 py-2 text-white">
-        Copywrite 2024 Xellence Tech
+        Copywrite 2024 Spark Media
       </div>
     </div>
   );
